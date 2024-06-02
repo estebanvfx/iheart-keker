@@ -1,0 +1,13 @@
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Checker-IheartRadio.exe.config
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Checker-IheartRadio.exe
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Checker-IheartRadio.pdb
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\obj\Debug\Checker-IheartRadio.csproj.AssemblyReference.cache
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\obj\Debug\Checker-IheartRadio.csproj.CoreCompileInputs.cache
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\obj\Debug\Checker-IheartRadio.exe
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\obj\Debug\Checker-IheartRadio.pdb
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Leaf.xNet.dll
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Leaf.xNet.xml
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\obj\Debug\Checker-.1C254A38.Up2Date
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EstebanVfx\source\repos\Checker-IheartRadio\Checker-IheartRadio\bin\Debug\Colorful.Console.dll
